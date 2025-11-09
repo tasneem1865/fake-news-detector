@@ -52,7 +52,7 @@ A full-stack web application to analyze news articles for fake/real status. It f
 6. **Start frontend server:**
     ```
     cd ../frontend
-    npm start
+    npm run dev
     ```
 
 7. **Open your browser and use the application!**
